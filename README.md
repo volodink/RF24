@@ -1,7 +1,6 @@
-This is RF24 edit for Ino Build Tool.
+#This is RF24 edit for Ino Build Tool.
 
-
-Ino
+###Ino
 
 Ino is a command line toolkit for working with Arduino hardware
 
@@ -17,4 +16,4 @@ Ino is based on make to perform builds. However Makefiles are generated automati
 
 For more: 
 
-http://inotool.org/
+```http://inotool.org/```
